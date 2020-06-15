@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/heroku-react-test-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/heroku-react-test-app/static/js/main.f9952f7c.chunk.js",
-    "main.js.map": "/heroku-react-test-app/static/js/main.f9952f7c.chunk.js.map",
-    "runtime-main.js": "/heroku-react-test-app/static/js/runtime-main.0e224554.js",
-    "runtime-main.js.map": "/heroku-react-test-app/static/js/runtime-main.0e224554.js.map",
-    "static/js/2.665211f4.chunk.js": "/heroku-react-test-app/static/js/2.665211f4.chunk.js",
-    "static/js/2.665211f4.chunk.js.map": "/heroku-react-test-app/static/js/2.665211f4.chunk.js.map",
+    "main.css": "/heroku-react-test-app/static/css/main.728f7d5a.chunk.css",
+    "main.js": "/heroku-react-test-app/static/js/main.46997431.chunk.js",
+    "main.js.map": "/heroku-react-test-app/static/js/main.46997431.chunk.js.map",
+    "runtime-main.js": "/heroku-react-test-app/static/js/runtime-main.df8c78ad.js",
+    "runtime-main.js.map": "/heroku-react-test-app/static/js/runtime-main.df8c78ad.js.map",
+    "static/js/2.c7f3caa8.chunk.js": "/heroku-react-test-app/static/js/2.c7f3caa8.chunk.js",
+    "static/js/2.c7f3caa8.chunk.js.map": "/heroku-react-test-app/static/js/2.c7f3caa8.chunk.js.map",
     "index.html": "/heroku-react-test-app/index.html",
-    "precache-manifest.e073ed11b628a7b1aab160a243466d2b.js": "/heroku-react-test-app/precache-manifest.e073ed11b628a7b1aab160a243466d2b.js",
+    "precache-manifest.4db39dc2b6d717d6753e755b10458b73.js": "/heroku-react-test-app/precache-manifest.4db39dc2b6d717d6753e755b10458b73.js",
     "service-worker.js": "/heroku-react-test-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/heroku-react-test-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.665211f4.chunk.js.LICENSE.txt": "/heroku-react-test-app/static/js/2.665211f4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/heroku-react-test-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.728f7d5a.chunk.css.map": "/heroku-react-test-app/static/css/main.728f7d5a.chunk.css.map",
+    "static/js/2.c7f3caa8.chunk.js.LICENSE.txt": "/heroku-react-test-app/static/js/2.c7f3caa8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e224554.js",
-    "static/js/2.665211f4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f9952f7c.chunk.js"
+    "static/js/runtime-main.df8c78ad.js",
+    "static/js/2.c7f3caa8.chunk.js",
+    "static/css/main.728f7d5a.chunk.css",
+    "static/js/main.46997431.chunk.js"
   ]
 }
